@@ -1,0 +1,16 @@
+- create a crown and a leaf
+- add a hair particle_system for it : 
+	- particles
+		- click + and advanced
+		- render
+			- set render as = leaf
+			- set scale and scale randomize
+		- source
+			- set emit_from  = volume
+		- emission
+			- set number, seed
+		- enable rotation
+			- set orientation = normal
+			- set randomize, phase and randomize_phase
+		- viewport diaplay
+			- disable show_emitter

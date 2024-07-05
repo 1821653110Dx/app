@@ -1,0 +1,3 @@
+- if an object's (relative)location/rotation/scale remains unchanged, don't add key frames
+- create fame movement, can add noise_modifier for its scaling( strength = length )
+- if you want an object disappear before certain frame, set its scale to 0 at previous frame前一帧i
