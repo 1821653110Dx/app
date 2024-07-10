@@ -14,6 +14,8 @@
 ![[]]
 ```
 # 插件
+## number heading
+C p, number headings
 ## workbooks
 插入外部excel
 ```sheet
